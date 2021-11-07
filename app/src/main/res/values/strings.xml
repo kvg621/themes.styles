@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">themes.styles</string>
+    <string name="Switch">Включить</string>
+    <string name="tv001">это tv001</string>
+    <string name="tv002">это tv002</string>
+    <string name="tv003">это tv003</string>
+    <string name="button001">Кнопка1</string>
+    <string name="button002">Кнопка2</string>
+    <string name="button003">Кнопка3</string>
 </resources>
