@@ -11,8 +11,14 @@
         <item name="android:background">@color/pink_001</item>
         <item name="android:layout_margin">5dp</item>
     </style>
-    <style name="Switch">
+
+    <style name="Themesstyles.TextView.Strong" parent="Themesstyles.TextView">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Themesstyles.Switch" parent="Theme.Themesstyles">
         <item name="android:switchMinWidth">100dp</item>
     </style>
+
 
 </resources>
